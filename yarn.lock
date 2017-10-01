@@ -983,7 +983,7 @@ glogg@^1.0.0:
   dependencies:
     sparkles "^1.0.0"
 
-"gonzales-pe@github:gilt/gonzales-pe#dev":
+gonzales-pe@gilt/gonzales-pe#dev:
   version "3.2.1"
   resolved "https://codeload.github.com/gilt/gonzales-pe/tar.gz/6d1ee5f2900d7017939faf0eeae4597686f1b084"
   dependencies:

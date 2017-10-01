@@ -158,7 +158,7 @@
       },
       "metrics": {
         "emSize": 1024,
-        "baseline": 6.25,
+        "baseline": 14.2857,
         "whitespace": 50
       },
       "embed": false,
@@ -169,7 +169,7 @@
       "showVersion": true
     },
     "imagePref": {
-      "prefix": "fa-",
+      "prefix": "icon-",
       "png": true,
       "useClassSelector": true,
       "color": 0,
