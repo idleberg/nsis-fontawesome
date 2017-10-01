@@ -14,7 +14,7 @@
     "woff2": "^0.0.1"
   },
   "scripts": {
-    "build": "node_modules/.bin/gulp build",
-    "postinstall": "node_modules/.bin/gulp build"
+    "build": "./node_modules/.bin/gulp build",
+    "postinstall": "./node_modules/.bin/gulp build"
   }
 }
